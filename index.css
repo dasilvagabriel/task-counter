@@ -42,4 +42,5 @@ button {
 #hero-sec{
    max-width: 400px;
    margin: auto;
+    height: 100vh;
 }
