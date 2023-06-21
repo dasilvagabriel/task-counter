@@ -6,7 +6,6 @@ body {
     text-align: center;
     color: white;
     text-shadow: 1px 1px 4px black;
-    height: 100vh;
 }
 
 h1 {
@@ -42,5 +41,4 @@ button {
 #hero-sec{
    max-width: 400px;
    margin: auto;
-    height: 100vh;
 }
